@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Project_Striqt
-A mini app
-=======
 # Striqt
 
 A commitment-based accountability protocol on Celo that rewards consistency with GoodDollar.
